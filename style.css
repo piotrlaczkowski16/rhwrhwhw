@@ -1,0 +1,23 @@
+img{
+    height: auto;
+    width: 100%;
+}
+.kontener{
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+.wydarzenie{
+    width: 360px;
+    height: auto;
+    background-color: powderblue;
+    padding: 18px;
+    border: 2px;
+}
+a{
+    width: 160px;
+    height: 40px;
+    background-color: lightgray;
+    text-align: center;
+    
+}
